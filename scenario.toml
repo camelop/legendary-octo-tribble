@@ -15,5 +15,5 @@ image = "ghcr.io/komyo-ai/agentbeats-tutorial-debater:latest" # Your purple agen
 env = { GOOGLE_API_KEY = "${GOOGLE_API_KEY}" } 
 
 [config]
-topic = "Should artificial intelligence be regulated?"
+topic = "Should artificial intelligence be regulated? Check"
 num_rounds = 2
